@@ -5,12 +5,15 @@
 
 ## [Unreleased]
 
-### v1.0.0 (09/10/2026) — Convenção inicial de CHANGELOG
+## [1.0.0] - 2026-10-09
 
-- **Adicionado:** `SKILL.md` — estrutura do arquivo, ordem cronológica, versionamento por eras, formato das entradas, tipos padronizados, regras FAZER/NÃO FAZER e manutenção.
-- **Adicionado:** `templates/CHANGELOG.template.md` — modelo para copiar em projetos novos.
-- **Adicionado:** `README.md` — instalação (symlink/cópia) e resumo da convenção.
-- **Arquivos:** `SKILL.md`, `templates/CHANGELOG.template.md`, `README.md`.
+### Adicionado — Skill `changelog-convention`
+
+- **SKILL.md:** estrutura do arquivo, ordem cronológica, versionamento por eras, formato das entradas, tipos padronizados, regras FAZER/NÃO FAZER e manutenção.
+- **templates/CHANGELOG.template.md:** modelo para copiar em projetos novos.
+- **README.md:** instalação (symlink/cópia) e resumo da convenção.
+- **CHANGELOG.md:** este arquivo.
+- **Arquivos:** `SKILL.md`, `templates/CHANGELOG.template.md`, `README.md`, `CHANGELOG.md`.
 
 ## Legenda
 
