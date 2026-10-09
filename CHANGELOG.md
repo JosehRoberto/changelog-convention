@@ -5,6 +5,10 @@
 
 ## [Unreleased]
 
+### Documentação (09/10/2026) — Guia de instalação multi-harness e multi-SO
+
+- **README:** seção "Instalação" expandida — escopo **global × local do projeto**, locais por **harness** (OpenCode, Claude Code, OpenClaude) e por **SO** (GNU/Linux, macOS, Windows/WSL/nativo), com exemplos de symlink e cópia.
+
 ## [1.0.0] - 2026-10-09
 
 ### Adicionado — Skill `changelog-convention`
