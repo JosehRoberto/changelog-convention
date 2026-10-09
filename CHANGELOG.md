@@ -5,6 +5,10 @@
 
 ## [Unreleased]
 
+### Documentação (09/10/2026) — Descrição harness-agnóstica no README
+
+- **README:** primeira linha passou de "Skill do OpenCode" para "Skill no padrão **Agent Skills**", refletindo o suporte a OpenCode, Claude Code e OpenClaude.
+
 ### Documentação (09/10/2026) — Guia de instalação multi-harness e multi-SO
 
 - **README:** seção "Instalação" expandida — escopo **global × local do projeto**, locais por **harness** (OpenCode, Claude Code, OpenClaude) e por **SO** (GNU/Linux, macOS, Windows/WSL/nativo), com exemplos de symlink e cópia.

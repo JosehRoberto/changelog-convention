@@ -1,6 +1,6 @@
 # changelog-convention
 
-Skill do [OpenCode](https://opencode.ai) com a **convenção para manter arquivos `CHANGELOG.md`** nos projetos deste computador: histórico cronológico, sem duplicatas e sem ambiguidade de numeração.
+Skill no padrão **[Agent Skills](https://agentskills.io)** com a **convenção para manter arquivos `CHANGELOG.md`** nos projetos deste computador: histórico cronológico, sem duplicatas e sem ambiguidade de numeração. Compatível com **OpenCode**, **Claude Code** e **OpenClaude** (e outros harnesses que suportam o padrão).
 
 ## Conteúdo
 
